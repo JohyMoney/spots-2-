@@ -24,7 +24,7 @@
     "webpack-dev-server": "4.9.3"
   },
   "devDependencies": {
-    "core-js:": "3.23.5"
+    "core-js": "3.23.5"
   }
 
 }
